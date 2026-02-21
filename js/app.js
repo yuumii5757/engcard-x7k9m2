@@ -165,7 +165,12 @@ const App = {
           <div class="empty-icon">🏆</div>
           <p>ミスしたカードはありません。<br>素晴らしい！</p>
         </div>
-      ` : missCards.map((c, i) => `
+      ` : `
+        <div class="btn-group" style="margin-bottom:16px">
+          <button class="btn btn-primary btn-block" onclick="Quiz.selectGenre('❌ミス一覧')">📖 ミス一覧で問題を解く</button>
+          <button class="btn btn-danger btn-block" onclick="App.resetMissCounts()">🗑️ ミスをリセット</button>
+        </div>
+        ${missCards.map((c, i) => `
         <div class="card-list-item" style="animation-delay:${i * 0.04}s">
           <div class="card-list-text">
             <div class="jp">${escapeHtml(c.japanese)}</div>
@@ -175,7 +180,16 @@ const App = {
           <span class="miss-badge">×${c.wrongCount}</span>
         </div>
       `).join('')}
+      `}
     `;
+  },
+
+  async resetMissCounts() {
+    const ok = confirm('⚠️ すべてのカードの不正解回数をリセットします。\\n\\n続行しますか？');
+    if (!ok) return;
+    const count = await resetAllWrongCounts();
+    App.toast(`${count}枚のカードのミスをリセットしました 🔄`);
+    App.navigate('miss-list');
   },
 
   async renderFavorites() {

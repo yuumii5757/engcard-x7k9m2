@@ -27,16 +27,26 @@ const Quiz = {
 
     // Add favorite count
     const favCount = cards.filter(c => c.favorite).length;
+    // Add miss count
+    const missCount = cards.filter(c => (c.wrongCount || 0) > 0).length;
 
     return `
       <button class="nav-back" onclick="App.navigate('top')">← トップに戻る</button>
       <div class="section-title"><span class="icon">📖</span> ジャンルを選択</div>
-      ${favCount > 0 ? `
-        <div class="genre-card fav-genre" style="margin-bottom:16px" onclick="Quiz.selectGenre('⭐お気に入り')">
-          <div class="genre-name">⭐ お気に入り</div>
-          <div class="genre-count">${favCount}枚</div>
-        </div>
-      ` : ''}
+      ${favCount > 0 || missCount > 0 ? `<div class="special-genre-row">
+        ${favCount > 0 ? `
+          <div class="genre-card fav-genre" onclick="Quiz.selectGenre('⭐お気に入り')">
+            <div class="genre-name">⭐ お気に入り</div>
+            <div class="genre-count">${favCount}枚</div>
+          </div>
+        ` : ''}
+        ${missCount > 0 ? `
+          <div class="genre-card miss-genre" onclick="Quiz.selectGenre('❌ミス一覧')">
+            <div class="genre-name">❌ ミス一覧</div>
+            <div class="genre-count">${missCount}枚</div>
+          </div>
+        ` : ''}
+      </div>` : ''}
       <div class="genre-grid">
         ${genres.map((g, i) => `
           <div class="genre-card" style="animation-delay:${i * 0.06}s" onclick="Quiz.selectGenre('${escapeHtml(g)}')">
@@ -61,6 +71,8 @@ const Quiz = {
     let cards;
     if (this.selectedGenre === '⭐お気に入り') {
       cards = await getFavoriteCards();
+    } else if (this.selectedGenre === '❌ミス一覧') {
+      cards = await getMissCards();
     } else {
       cards = await getCardsByGenre(this.selectedGenre);
     }

@@ -33,8 +33,13 @@ const Sync = {
         buf.set(salt, 0);
         buf.set(iv, salt.length);
         buf.set(new Uint8Array(encrypted), salt.length + iv.length);
-        // Convert to Base64
-        return btoa(String.fromCharCode(...buf));
+        // Convert to Base64 (chunk-based to avoid stack overflow)
+        let binary = '';
+        const CHUNK = 8192;
+        for (let i = 0; i < buf.length; i += CHUNK) {
+            binary += String.fromCharCode.apply(null, buf.subarray(i, i + CHUNK));
+        }
+        return btoa(binary);
     },
 
     async decrypt(base64, password) {

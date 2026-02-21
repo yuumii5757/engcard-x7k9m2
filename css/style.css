@@ -411,6 +411,25 @@ body::before {
   border-color: var(--warning);
 }
 
+.miss-genre {
+  background: linear-gradient(135deg, rgba(244, 67, 54, 0.08), rgba(244, 67, 54, 0.03));
+  border-color: rgba(244, 67, 54, 0.2);
+}
+
+.miss-genre:hover {
+  border-color: var(--danger);
+}
+
+.special-genre-row {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.special-genre-row .genre-card {
+  flex: 1;
+}
+
 /* ─── Buttons ────────────────────────────────────────────────── */
 .btn {
   display: inline-flex;

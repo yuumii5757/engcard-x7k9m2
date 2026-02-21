@@ -133,6 +133,22 @@ async function getFavoriteCards() {
   return cards.filter(c => c.favorite);
 }
 
+async function getMissCards() {
+  const cards = await getAllCards();
+  return cards.filter(c => (c.wrongCount || 0) > 0)
+    .sort((a, b) => (b.wrongCount || 0) - (a.wrongCount || 0));
+}
+
+async function resetAllWrongCounts() {
+  const cards = await getAllCards();
+  const missCards = cards.filter(c => (c.wrongCount || 0) > 0);
+  for (const card of missCards) {
+    card.wrongCount = 0;
+    await updateCard(card);
+  }
+  return missCards.length;
+}
+
 // ─── Export / Import ────────────────────────────────────────────
 
 async function exportJSON() {
