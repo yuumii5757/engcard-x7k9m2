@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="瞬間英作文フラッシュカード — ローカルで動作する英語トレーニングアプリ">
+    <title>⚡ 瞬間英作文フラッシュカード</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="icons/icon.svg">
+    <meta name="theme-color" content="#0f0f1a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="瞬間英作文">
+</head>
+
+<body>
+    <button class="theme-toggle" id="theme-toggle" title="テーマ切替">🌙</button>
+    <div id="app">
+        <!-- SPA content rendered here -->
+        <div class="app-header">
+            <h1>⚡ 瞬間英作文フラッシュカード</h1>
+            <div class="subtitle">読み込み中...</div>
+        </div>
+    </div>
+
+    <!-- Scripts (order matters) -->
+    <script src="js/db.js"></script>
+    <script src="js/speech.js"></script>
+    <script src="js/cards.js"></script>
+    <script src="js/quiz.js"></script>
+    <script src="js/app.js"></script>
+
+    <!-- Service Worker Registration -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(reg => console.log('SW registered:', reg.scope))
+                    .catch(err => console.log('SW registration failed:', err));
+            });
+        }
+    </script>
+</body>
+
+</html>

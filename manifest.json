@@ -1,0 +1,20 @@
+{
+    "name": "瞬間英作文フラッシュカード",
+    "short_name": "瞬間英作文",
+    "description": "瞬間英作文トレーニング用フラッシュカードアプリ。穴埋め・全文モード搭載。",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#0f0f1a",
+    "theme_color": "#0f0f1a",
+    "orientation": "portrait",
+    "lang": "ja",
+    "icons": [
+        {
+            "src": "icons/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
