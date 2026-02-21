@@ -147,6 +147,7 @@ const App = {
     return `
       <button class="nav-back" onclick="App.navigate('top')">← トップに戻る</button>
       ${Speech.renderSettings()}
+      ${Sync.renderSettings()}
     `;
   },
 
