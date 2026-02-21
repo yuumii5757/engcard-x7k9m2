@@ -191,6 +191,8 @@ const Cards = {
   },
 
   async importFromServer() {
+    const ok = confirm('⚠️ サーバーから読み込むと、お気に入りや学習記録（不正解回数など）がリセットされます。\n\n続行しますか？');
+    if (!ok) return;
     try {
       App.toast('読み込み中...');
       const res = await fetch('data/cards_updated.json');
