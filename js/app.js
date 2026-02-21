@@ -148,7 +148,31 @@ const App = {
       <button class="nav-back" onclick="App.navigate('top')">← トップに戻る</button>
       ${Speech.renderSettings()}
       ${Sync.renderSettings()}
+
+      <div class="settings-section">
+        <div class="section-title"><span class="icon">🔧</span> アプリ管理</div>
+        <button class="btn btn-ghost btn-block" onclick="App.updateApp()">🔄 アプリを最新版に更新</button>
+        <p class="input-hint">キャッシュをクリアして最新のコードを取得します。</p>
+      </div>
     `;
+  },
+
+  async updateApp() {
+    const ok = confirm('アプリを最新版に更新します。\n\nページが再読み込みされます。続行しますか？');
+    if (!ok) return;
+    try {
+      if ('caches' in window) {
+        const keys = await caches.keys();
+        await Promise.all(keys.map(k => caches.delete(k)));
+      }
+      if (navigator.serviceWorker) {
+        const reg = await navigator.serviceWorker.getRegistration();
+        if (reg) await reg.unregister();
+      }
+      window.location.reload(true);
+    } catch (e) {
+      window.location.reload(true);
+    }
   },
 
   async renderMissList() {
@@ -231,19 +255,36 @@ const App = {
 
   // ─── Toast Notification ───────────────────────────────────────
   toast(message) {
-    let t = document.getElementById('app-toast');
-    if (!t) {
-      t = document.createElement('div');
-      t.id = 'app-toast';
-      t.className = 'toast';
-      document.body.appendChild(t);
-    }
-    t.textContent = message;
-    t.classList.add('show');
+    // Remove existing toast
+    const old = document.getElementById('app-toast');
+    if (old) old.remove();
+
+    const t = document.createElement('div');
+    t.id = 'app-toast';
+    t.className = 'toast';
+
+    const msg = document.createElement('span');
+    msg.className = 'toast-msg';
+    msg.textContent = message;
+
+    const close = document.createElement('button');
+    close.className = 'toast-close';
+    close.textContent = '✕';
+    close.onclick = (e) => { e.stopPropagation(); t.classList.remove('show'); setTimeout(() => t.remove(), 300); };
+
+    t.appendChild(msg);
+    t.appendChild(close);
+    t.onclick = () => { t.classList.remove('show'); setTimeout(() => t.remove(), 300); };
+    document.body.appendChild(t);
+
+    // Trigger animation
+    requestAnimationFrame(() => t.classList.add('show'));
+
     clearTimeout(this._toastTimer);
     this._toastTimer = setTimeout(() => {
       t.classList.remove('show');
-    }, 2200);
+      setTimeout(() => t.remove(), 300);
+    }, 3000);
   }
 };
 
