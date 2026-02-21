@@ -11,7 +11,8 @@ const ASSETS = [
     './js/app.js',
     './manifest.json',
     './icons/icon.svg',
-    './icons/icon-512.png'
+    './icons/icon-512.png',
+    './data/cards_updated.json'
 ];
 
 // Install: cache all core assets

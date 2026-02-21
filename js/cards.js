@@ -35,6 +35,7 @@ const Cards = {
       <div class="io-bar">
         <button class="btn btn-ghost btn-sm" onclick="Cards.exportData()">📤 エクスポート</button>
         <button class="btn btn-ghost btn-sm" onclick="document.getElementById('import-file').click()">📥 インポート</button>
+        <button class="btn btn-ghost btn-sm" onclick="Cards.importFromServer()">☁️ サーバーから読込</button>
         <input type="file" id="import-file" class="hidden-input" accept=".json" onchange="Cards.importData(event)">
       </div>
 
@@ -187,6 +188,20 @@ const Cards = {
       App.toast('インポートに失敗しました ❌');
     }
     event.target.value = '';
+  },
+
+  async importFromServer() {
+    try {
+      App.toast('読み込み中...');
+      const res = await fetch('data/cards_updated.json');
+      if (!res.ok) throw new Error('fetch failed');
+      const text = await res.text();
+      const count = await importJSON(text);
+      App.toast(`${count}枚のカードを読み込みました ☁️`);
+      App.navigate('cards');
+    } catch (e) {
+      App.toast('サーバーからの読み込みに失敗しました ❌');
+    }
   }
 };
 

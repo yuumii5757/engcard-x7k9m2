@@ -1,0 +1,1982 @@
+[
+    {
+        "id": "f1a2b3c4-1001-4a5b-8c9d-000000000001",
+        "japanese": "メニューを見せてもらえますか？",
+        "english": "Could we have a menu, please?",
+        "genre": "旅行",
+        "memo": "Could we have = 〜をいただけますか。レストランに入って最初に使う定番フレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1002-4a5b-8c9d-000000000002",
+        "japanese": "おすすめは何ですか？",
+        "english": "What do you recommend?",
+        "genre": "旅行",
+        "memo": "recommend = 勧める。メニュー選びに迷った時に店員に聞く便利な表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1003-4a5b-8c9d-000000000003",
+        "japanese": "これにします",
+        "english": "I'll have this one.",
+        "genre": "旅行",
+        "memo": "I'll have = 〜にします（注文時）。指差しで this one を添えれば完璧",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1004-4a5b-8c9d-000000000004",
+        "japanese": "お会計をお願いします",
+        "english": "Check, please.",
+        "genre": "旅行",
+        "memo": "check = お勘定（米語）。イギリス英語では bill, please と言うことが多い",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1005-4a5b-8c9d-000000000005",
+        "japanese": "クレジットカードは使えますか？",
+        "english": "Can I pay by credit card?",
+        "genre": "旅行",
+        "memo": "pay by = 〜で支払う。Do you accept credit cards? も同じ意味でよく使う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1006-4a5b-8c9d-000000000006",
+        "japanese": "お手洗いはどこですか？",
+        "english": "Where is the restroom?",
+        "genre": "旅行",
+        "memo": "restroom = トイレ（公共の場）。bathroom はお風呂付きのトイレを指すことが多い",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1007-4a5b-8c9d-000000000007",
+        "japanese": "写真を撮ってもらえませんか？",
+        "english": "Could you take a picture of us?",
+        "genre": "旅行",
+        "memo": "take a picture = 写真を撮る。of us で「私たちの」を指定する",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1008-4a5b-8c9d-000000000008",
+        "japanese": "ここから遠いですか？",
+        "english": "Is it far from here?",
+        "genre": "旅行",
+        "memo": "far = 遠い。from here = ここから。道案内を聞いた後の距離の確認に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1009-4a5b-8c9d-000000000009",
+        "japanese": "地図をいただけますか？",
+        "english": "Can I get a map?",
+        "genre": "旅行",
+        "memo": "Can I get = 〜をもらえますか。ホテルのフロントや観光案内所で",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1010-4a5b-8c9d-000000000010",
+        "japanese": "Wi-Fiのパスワードは何ですか？",
+        "english": "What's the Wi-Fi password?",
+        "genre": "旅行",
+        "memo": "Wi-Fi は「ワイファイ」と発音。海外では必須のフレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1011-4a5b-8c9d-000000000011",
+        "japanese": "荷物を預かってもらえますか？",
+        "english": "Could you keep my baggage?",
+        "genre": "旅行",
+        "memo": "keep = 保管する。baggage = 手荷物。チェックイン前やアウト後にお願いする時",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1012-4a5b-8c9d-000000000012",
+        "japanese": "チェックインをお願いします",
+        "english": "I'd like to check in.",
+        "genre": "旅行",
+        "memo": "I'd like to = 〜したいのですが（丁寧）。ホテルのカウンターで",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1013-4a5b-8c9d-000000000013",
+        "japanese": "鈴木で予約しています",
+        "english": "I have a reservation under Suzuki.",
+        "genre": "旅行",
+        "memo": "under = 〜という名前で。予約名を伝える際の定番の言い回し",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1014-4a5b-8c9d-000000000014",
+        "japanese": "朝食は何時からですか？",
+        "english": "What time is breakfast?",
+        "genre": "旅行",
+        "memo": "What time is = 〜は何時ですか。シンプルで通じる必須フレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1015-4a5b-8c9d-000000000015",
+        "japanese": "部屋に鍵を忘れました",
+        "english": "I locked myself out.",
+        "genre": "旅行",
+        "memo": "lock oneself out = 自分を外に締め出す → インキーしてしまった状態",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1016-4a5b-8c9d-000000000016",
+        "japanese": "お湯が出ません",
+        "english": "There's no hot water.",
+        "genre": "旅行",
+        "memo": "There is no = 〜がない。ホテルのトラブルを伝える時の基本の型",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1017-4a5b-8c9d-000000000017",
+        "japanese": "別の部屋に変えてもらえますか？",
+        "english": "Could I change rooms?",
+        "genre": "旅行",
+        "memo": "change rooms = 部屋を交換する。部屋が複数関わるので rooms と複数形に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1018-4a5b-8c9d-000000000018",
+        "japanese": "タクシーを呼んでもらえますか？",
+        "english": "Could you call a taxi for me?",
+        "genre": "旅行",
+        "memo": "call a taxi = タクシーを呼ぶ。for me をつけると「私のために」と丁寧になる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1019-4a5b-8c9d-000000000019",
+        "japanese": "空港までいくらですか？",
+        "english": "How much is it to the airport?",
+        "genre": "旅行",
+        "memo": "How much is it to = 〜まではいくらですか。乗車前の料金確認に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1020-4a5b-8c9d-000000000020",
+        "japanese": "ここで降ろしてください",
+        "english": "Please drop me off here.",
+        "genre": "旅行",
+        "memo": "drop off = 降ろす。タクシーやバスで目的地に着いた時に使う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1021-4a5b-8c9d-000000000021",
+        "japanese": "この電車は〜に行きますか？",
+        "english": "Does this train go to ~?",
+        "genre": "旅行",
+        "memo": "go to = 〜へ行く。乗り間違いを防ぐための確認フレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1022-4a5b-8c9d-000000000022",
+        "japanese": "切符はどこで買えますか？",
+        "english": "Where can I buy a ticket?",
+        "genre": "旅行",
+        "memo": "Where can I = どこで〜できますか。buy = 買う。駅や施設で",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1023-4a5b-8c9d-000000000023",
+        "japanese": "次の駅は何ですか？",
+        "english": "What is the next stop?",
+        "genre": "旅行",
+        "memo": "stop = 停車駅・停留所。stationより汎用性が高くバスなどでも使える",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1024-4a5b-8c9d-000000000024",
+        "japanese": "道に迷いました",
+        "english": "I'm lost.",
+        "genre": "旅行",
+        "memo": "lost = 迷った状態。現在形で I lose my way とはあまり言わない",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1025-4a5b-8c9d-000000000025",
+        "japanese": "現在地を教えてもらえますか？",
+        "english": "Could you show me where I am?",
+        "genre": "旅行",
+        "memo": "show me = 私に見せる。地図を指差しながら自分がどこにいるか聞く時",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1026-4a5b-8c9d-000000000026",
+        "japanese": "試着してもいいですか？",
+        "english": "Can I try this on?",
+        "genre": "旅行",
+        "memo": "try on = 試着する。服や靴を試したい時に店員に尋ねる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1027-4a5b-8c9d-000000000027",
+        "japanese": "少し小さいです",
+        "english": "It's a little tight.",
+        "genre": "旅行",
+        "memo": "tight = きつい・窮屈な。small より tight の方が服のサイズ感によく使う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1028-4a5b-8c9d-000000000028",
+        "japanese": "別のサイズはありますか？",
+        "english": "Do you have this in a different size?",
+        "genre": "旅行",
+        "memo": "in a different size = 違うサイズで。色を変えたい場合は in a different color",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1029-4a5b-8c9d-000000000029",
+        "japanese": "ただ見ているだけです",
+        "english": "I'm just looking, thank you.",
+        "genre": "旅行",
+        "memo": "just looking = 見てるだけ。店員に話しかけられた時の便利な返し",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1030-4a5b-8c9d-000000000030",
+        "japanese": "これください（購入時）",
+        "english": "I'll take it.",
+        "genre": "旅行",
+        "memo": "take = （商品として）持っていく → 買う。buy より口語的で自然",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1031-4a5b-8c9d-000000000031",
+        "japanese": "免税になりますか？",
+        "english": "Is this tax-free?",
+        "genre": "旅行",
+        "memo": "tax-free = 免税。お土産をたくさん買う時に確認したいフレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1032-4a5b-8c9d-000000000032",
+        "japanese": "袋をもらえますか？",
+        "english": "Could I have a bag?",
+        "genre": "旅行",
+        "memo": "bag = レジ袋。最近は海外でも有料のことが多いので聞かれることも",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1033-4a5b-8c9d-000000000033",
+        "japanese": "窓際の席をお願いします",
+        "english": "A window seat, please.",
+        "genre": "旅行",
+        "memo": "window seat = 窓際の席。通路側は aisle seat（アイル・シート）",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1034-4a5b-8c9d-000000000034",
+        "japanese": "お水をもらえますか？",
+        "english": "Could I get some water?",
+        "genre": "旅行",
+        "memo": "some water = いくらかの水（不可算名詞）。機内やレストランで",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1035-4a5b-8c9d-000000000035",
+        "japanese": "毛布をもう一枚もらえますか？",
+        "english": "Can I have another blanket?",
+        "genre": "旅行",
+        "memo": "another = もう一つの。機内が寒い時に追加をお願いする表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1036-4a5b-8c9d-000000000036",
+        "japanese": "席を倒してもいいですか？",
+        "english": "May I recline my seat?",
+        "genre": "旅行",
+        "memo": "recline = 倒す・寄りかかる。後ろの人に一声かける時のマナー",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1037-4a5b-8c9d-000000000037",
+        "japanese": "入国の目的は観光です",
+        "english": "I'm here for sightseeing.",
+        "genre": "旅行",
+        "memo": "sightseeing = 観光。for ~ = 〜の目的で。入国審査での定番の答え",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1038-4a5b-8c9d-000000000038",
+        "japanese": "5日間滞在します",
+        "english": "I'm staying for five days.",
+        "genre": "旅行",
+        "memo": "for + 期間 = 〜の間。入国審査で滞在期間を聞かれた時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1039-4a5b-8c9d-000000000039",
+        "japanese": "荷物が出てきません",
+        "english": "My baggage hasn't come out.",
+        "genre": "旅行",
+        "memo": "hasn't come out = まだ出てきていない（現在完了）。ロストバゲージの窓口で",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1040-4a5b-8c9d-000000000040",
+        "japanese": "乗り継ぎ便はどこですか？",
+        "english": "Where is my connecting flight?",
+        "genre": "旅行",
+        "memo": "connecting flight = 乗り継ぎ便。トランジットの時間が迫っている時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1041-4a5b-8c9d-000000000041",
+        "japanese": "もう少し安くなりませんか？",
+        "english": "Can you give me a discount?",
+        "genre": "旅行",
+        "memo": "give a discount = 割引をする。市場などでの値段交渉に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1042-4a5b-8c9d-000000000042",
+        "japanese": "おつりが違います",
+        "english": "The change is wrong.",
+        "genre": "旅行",
+        "memo": "change = お釣り。wrong = 間違っている。気づいたらすぐに伝える",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1043-4a5b-8c9d-000000000043",
+        "japanese": "パクチーは抜いてください",
+        "english": "No cilantro, please.",
+        "genre": "旅行",
+        "memo": "No ~ = 〜なしで。cilantro（シラントロ）= パクチー（米語）。corianderは主に種子",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1044-4a5b-8c9d-000000000044",
+        "japanese": "持ち帰りでお願いします",
+        "english": "To go, please.",
+        "genre": "旅行",
+        "memo": "to go = 持ち帰り（米語）。イギリス英語では take away と言う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1045-4a5b-8c9d-000000000045",
+        "japanese": "ここで食べます",
+        "english": "For here, please.",
+        "genre": "旅行",
+        "memo": "for here = 店内で。ファストフード店で必ず聞かれる「For here or to go?」への返答",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1046-4a5b-8c9d-000000000046",
+        "japanese": "お持ち帰り用の箱をもらえますか？",
+        "english": "Could I get a doggy bag?",
+        "genre": "旅行",
+        "memo": "doggy bag = 残り物を持ち帰る箱（犬の餌用という建前から）。box とも言う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1047-4a5b-8c9d-000000000047",
+        "japanese": "写真を撮りましょうか？",
+        "english": "Would you like me to take a picture?",
+        "genre": "旅行",
+        "memo": "Would you like me to = 私が〜しましょうか。観光客同士の助け合いに",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1048-4a5b-8c9d-000000000048",
+        "japanese": "日本語を話せる人はいますか？",
+        "english": "Does anyone speak Japanese?",
+        "genre": "旅行",
+        "memo": "anyone = 誰か。トラブル時など、日本語サポートが必要な時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1049-4a5b-8c9d-000000000049",
+        "japanese": "パスポートをなくしました",
+        "english": "I lost my passport.",
+        "genre": "旅行",
+        "memo": "lost = 無くした（過去形）。警察や大使館で状況を説明する時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-1050-4a5b-8c9d-000000000050",
+        "japanese": "助けて！",
+        "english": "Help me!",
+        "genre": "旅行",
+        "memo": "緊急事態に。大声で短く伝えることが最も重要",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2001-4a5b-8c9d-000000000051",
+        "japanese": "会議を始めましょう",
+        "english": "Let's get started.",
+        "genre": "仕事",
+        "memo": "get started = 始める。ミーティングの冒頭で全員の注目を集めるフレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2002-4a5b-8c9d-000000000052",
+        "japanese": "私の画面は見えますか？",
+        "english": "Can you see my screen?",
+        "genre": "仕事",
+        "memo": "screen = 画面。オンライン会議で画面共有をした時の定番確認",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2003-4a5b-8c9d-000000000053",
+        "japanese": "ミュートになっていますよ",
+        "english": "You're on mute.",
+        "genre": "仕事",
+        "memo": "on mute = ミュートの状態で。オンライン会議で最もよく使われるフレーズの一つ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2004-4a5b-8c9d-000000000054",
+        "japanese": "声が途切れています",
+        "english": "You're breaking up.",
+        "genre": "仕事",
+        "memo": "break up = 途切れる。電波が悪くて相手の音声がブツブツ切れる時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2005-4a5b-8c9d-000000000055",
+        "japanese": "もう一度言ってください",
+        "english": "Could you repeat that?",
+        "genre": "仕事",
+        "memo": "repeat = 繰り返す。Pardon? よりビジネスで丁寧な聞き返し方",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2006-4a5b-8c9d-000000000056",
+        "japanese": "少し詳しく説明してくれますか？",
+        "english": "Could you elaborate on that?",
+        "genre": "仕事",
+        "memo": "elaborate = 詳しく述べる。相手の意見をもっと深掘りしたい時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2007-4a5b-8c9d-000000000057",
+        "japanese": "完全に同意します",
+        "english": "I completely agree.",
+        "genre": "仕事",
+        "memo": "completely = 完全に。強い賛同を示す時に。I'm with you on that もよく使う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2008-4a5b-8c9d-000000000058",
+        "japanese": "私の意見としては",
+        "english": "In my opinion,",
+        "genre": "仕事",
+        "memo": "opinion = 意見。フォーマルな場で自分の見解を述べる時の切り出し方",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2009-4a5b-8c9d-000000000059",
+        "japanese": "次の議題に移りましょう",
+        "english": "Let's move on to the next topic.",
+        "genre": "仕事",
+        "memo": "move on to = 〜へ移る。会議のファシリテーションで必須",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2010-4a5b-8c9d-000000000060",
+        "japanese": "今日はここまでにしましょう",
+        "english": "Let's call it a day.",
+        "genre": "仕事",
+        "memo": "call it a day = その日の仕事を終える。会議や作業の終了を宣言するイディオム",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2011-4a5b-8c9d-000000000061",
+        "japanese": "添付ファイルをご確認ください",
+        "english": "Please find the attached file.",
+        "genre": "仕事",
+        "memo": "attached = 添付された。メールでの決まり文句。Please find attached だけでもOK",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2012-4a5b-8c9d-000000000062",
+        "japanese": "CCに入れてください",
+        "english": "Please CC me on that.",
+        "genre": "仕事",
+        "memo": "CC = （動詞として）CCに入れる。on that = その件（メール）について",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2013-4a5b-8c9d-000000000063",
+        "japanese": "締め切りはいつですか？",
+        "english": "When is the deadline?",
+        "genre": "仕事",
+        "memo": "deadline = 締め切り。タスクを受けた時に必ず確認すべきこと",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2014-4a5b-8c9d-000000000064",
+        "japanese": "締め切りを延ばせますか？",
+        "english": "Can we extend the deadline?",
+        "genre": "仕事",
+        "memo": "extend = 延ばす・延長する。間に合わない可能性がある時の交渉に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2015-4a5b-8c9d-000000000065",
+        "japanese": "進捗はどうですか？",
+        "english": "How is it going?",
+        "genre": "仕事",
+        "memo": "日常でも使うが、仕事では「（プロジェクトの）進み具合はどう？」の意味になる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2016-4a5b-8c9d-000000000066",
+        "japanese": "予定通りに進んでいます",
+        "english": "We're on schedule.",
+        "genre": "仕事",
+        "memo": "on schedule = 予定通り・定刻で。遅れている場合は behind schedule",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2017-4a5b-8c9d-000000000067",
+        "japanese": "今、手が離せません",
+        "english": "I'm tied up right now.",
+        "genre": "仕事",
+        "memo": "tied up = 縛られている → 予定が詰まっている・忙しい",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2018-4a5b-8c9d-000000000068",
+        "japanese": "後で折り返します",
+        "english": "I'll call you back later.",
+        "genre": "仕事",
+        "memo": "call back = 電話を折り返す。電話に出たものの忙しい時の対応",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2019-4a5b-8c9d-000000000069",
+        "japanese": "鈴木さんに代わっていただけますか？",
+        "english": "Could I speak to Mr. Suzuki?",
+        "genre": "仕事",
+        "memo": "speak to = 〜と話す。電話を取り次いでもらう時の基本表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2020-4a5b-8c9d-000000000070",
+        "japanese": "彼は今席を外しています",
+        "english": "He is not at his desk right now.",
+        "genre": "仕事",
+        "memo": "not at his desk = デスクにいない。電話口で不在を伝える定番フレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2021-4a5b-8c9d-000000000071",
+        "japanese": "伝言を承りましょうか？",
+        "english": "Would you like to leave a message?",
+        "genre": "仕事",
+        "memo": "leave a message = 伝言を残す。相手が不在の時に必ず聞くフレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2022-4a5b-8c9d-000000000072",
+        "japanese": "打ち合わせをセットしましょう",
+        "english": "Let's set up a meeting.",
+        "genre": "仕事",
+        "memo": "set up = 設定する。スケジュール調整を提案する時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2023-4a5b-8c9d-000000000073",
+        "japanese": "ご都合の良い日時はいつですか？",
+        "english": "When is convenient for you?",
+        "genre": "仕事",
+        "memo": "convenient = 都合が良い。相手のスケジュールを優先して聞く配慮の言葉",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2024-4a5b-8c9d-000000000074",
+        "japanese": "金曜日の午後は空いています",
+        "english": "I'm available on Friday afternoon.",
+        "genre": "仕事",
+        "memo": "available = 対応できる・空いている。スケジュールの空きを伝える時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2025-4a5b-8c9d-000000000075",
+        "japanese": "予定を変更できますか？",
+        "english": "Can we reschedule?",
+        "genre": "仕事",
+        "memo": "reschedule = スケジュールを組み直す。リスケのお願い",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2026-4a5b-8c9d-000000000076",
+        "japanese": "来週また連絡を取り合いましょう",
+        "english": "Let's touch base next week.",
+        "genre": "仕事",
+        "memo": "touch base = 連絡を取る・情報を共有する。ビジネスで非常に好まれる表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2027-4a5b-8c9d-000000000077",
+        "japanese": "確認させてください",
+        "english": "Let me double-check.",
+        "genre": "仕事",
+        "memo": "double-check = 再確認する。ミスを防ぐために念入りに確認するニュアンス",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2028-4a5b-8c9d-000000000078",
+        "japanese": "至急対応します",
+        "english": "I'll get on it right away.",
+        "genre": "仕事",
+        "memo": "get on it = 取りかかる。right away = すぐに。迅速な対応をアピール",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2029-4a5b-8c9d-000000000079",
+        "japanese": "進捗があったら共有します",
+        "english": "I'll keep you posted.",
+        "genre": "仕事",
+        "memo": "keep ~ posted = 〜に最新情報を伝える。状況の変化を随時報告する約束",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2030-4a5b-8c9d-000000000080",
+        "japanese": "いい仕事をしたね！",
+        "english": "Great job!",
+        "genre": "仕事",
+        "memo": "部下や同僚をシンプルに褒める言葉。Good job! よりポジティブ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2031-4a5b-8c9d-000000000081",
+        "japanese": "手伝ってくれてありがとう",
+        "english": "Thanks for your help.",
+        "genre": "仕事",
+        "memo": "感謝を伝える基本。メールの結びにも使える",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2032-4a5b-8c9d-000000000082",
+        "japanese": "お疲れ様です",
+        "english": "Thank you for your hard work.",
+        "genre": "仕事",
+        "memo": "英語に「お疲れ様」の直訳はないが、仕事終わりに労う場合はこれが近い",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2033-4a5b-8c9d-000000000083",
+        "japanese": "ご迷惑をおかけして申し訳ありません",
+        "english": "I apologize for the inconvenience.",
+        "genre": "仕事",
+        "memo": "inconvenience = 不便・迷惑。ビジネスでの正式な謝罪表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2034-4a5b-8c9d-000000000084",
+        "japanese": "私のミスです",
+        "english": "That was my mistake.",
+        "genre": "仕事",
+        "memo": "言い訳せずに非を認める誠実な言い方",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2035-4a5b-8c9d-000000000085",
+        "japanese": "了解しました",
+        "english": "Noted.",
+        "genre": "仕事",
+        "memo": "note = 書き留める。「確かに記録した/承知した」という短い返信",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2036-4a5b-8c9d-000000000086",
+        "japanese": "参考までに",
+        "english": "For your reference,",
+        "genre": "仕事",
+        "memo": "reference = 参考。情報や資料を共有する時に添える言葉。FYI とも",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2037-4a5b-8c9d-000000000087",
+        "japanese": "早急なお返事ありがとうございます",
+        "english": "Thank you for your prompt reply.",
+        "genre": "仕事",
+        "memo": "prompt = 迅速な。すぐに返信をくれた相手への感謝",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2038-4a5b-8c9d-000000000088",
+        "japanese": "返信が遅くなり申し訳ありません",
+        "english": "Sorry for the late reply.",
+        "genre": "仕事",
+        "memo": "メールの返信が遅れてしまった時の冒頭に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2039-4a5b-8c9d-000000000089",
+        "japanese": "ご不明な点はお知らせください",
+        "english": "Please let me know if you have any questions.",
+        "genre": "仕事",
+        "memo": "説明の最後やメールの結びに書く、気配りの定番フレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2040-4a5b-8c9d-000000000090",
+        "japanese": "よろしくお願いします（今後の関係に）",
+        "english": "I'm looking forward to working with you.",
+        "genre": "仕事",
+        "memo": "look forward to = 〜を楽しみにする。初対面での挨拶やプロジェクト開始時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2041-4a5b-8c9d-000000000091",
+        "japanese": "それは理にかなっています",
+        "english": "That makes sense.",
+        "genre": "仕事",
+        "memo": "make sense = 意味をなす・納得できる。相手の説明に合点がいった時",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2042-4a5b-8c9d-000000000092",
+        "japanese": "代替案はありますか？",
+        "english": "Do you have any alternatives?",
+        "genre": "仕事",
+        "memo": "alternative = 代替案（オルタナティブ）。プランBを探る時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2043-4a5b-8c9d-000000000093",
+        "japanese": "状況を把握していますか？",
+        "english": "Are you on the same page?",
+        "genre": "仕事",
+        "memo": "on the same page = 同じページにいる → 認識が合っている。チームの意思疎通確認",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2044-4a5b-8c9d-000000000094",
+        "japanese": "ゼロからやり直そう",
+        "english": "Let's start from scratch.",
+        "genre": "仕事",
+        "memo": "from scratch = 最初から・ゼロから。計画が行き詰まった時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2045-4a5b-8c9d-000000000095",
+        "japanese": "とりあえずこれでいこう",
+        "english": "Let's go with this for now.",
+        "genre": "仕事",
+        "memo": "for now = 今のところは。暫定的な決定を下す時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2046-4a5b-8c9d-000000000096",
+        "japanese": "検討します",
+        "english": "I'll look into it.",
+        "genre": "仕事",
+        "memo": "look into = 調査する・検討する。すぐには答えられない時に持ち帰るフレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2047-4a5b-8c9d-000000000097",
+        "japanese": "軌道に乗っています",
+        "english": "We are on track.",
+        "genre": "仕事",
+        "memo": "on track = レールに乗って → 順調に進んでいる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2048-4a5b-8c9d-000000000098",
+        "japanese": "優先順位をつけましょう",
+        "english": "Let's prioritize.",
+        "genre": "仕事",
+        "memo": "prioritize = 優先順位をつける。タスクがあふれている時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2049-4a5b-8c9d-000000000099",
+        "japanese": "最新情報を教えて",
+        "english": "Bring me up to speed.",
+        "genre": "仕事",
+        "memo": "up to speed = （情報などが）最新の状態で。休み明けなどで状況をキャッチアップしたい時",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-2050-4a5b-8c9d-000000000100",
+        "japanese": "一歩引いて考えてみよう",
+        "english": "Let's take a step back.",
+        "genre": "仕事",
+        "memo": "議論が白熱したり、近視眼的になっている時に全体を俯瞰する提案",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3001-4a5b-8c9d-000000000101",
+        "japanese": "今日は肌寒いね",
+        "english": "It's chilly today.",
+        "genre": "日常",
+        "memo": "chilly = 肌寒い。cold（寒い）より少しマイルドな冷え込み",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3002-4a5b-8c9d-000000000102",
+        "japanese": "土砂降りだ",
+        "english": "It's pouring.",
+        "genre": "日常",
+        "memo": "pour = 注ぐ。「バケツをひっくり返したように降る」雨",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3003-4a5b-8c9d-000000000103",
+        "japanese": "お腹ペコペコ",
+        "english": "I'm starving.",
+        "genre": "日常",
+        "memo": "starve = 飢える。I'm hungry をさらに強調したカジュアル表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3004-4a5b-8c9d-000000000104",
+        "japanese": "もうお腹いっぱい",
+        "english": "I'm stuffed.",
+        "genre": "日常",
+        "memo": "stuffed = 詰め込まれた。食べ物がお腹に詰まって苦しいくらい満腹",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3005-4a5b-8c9d-000000000105",
+        "japanese": "クタクタに疲れた",
+        "english": "I'm exhausted.",
+        "genre": "日常",
+        "memo": "exhausted = 疲れ果てた。tired より疲労困憊している様子",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3006-4a5b-8c9d-000000000106",
+        "japanese": "今週末は何するの？",
+        "english": "Any plans for the weekend?",
+        "genre": "日常",
+        "memo": "Any plans = 何か予定はある？週末前の世間話の定番",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3007-4a5b-8c9d-000000000107",
+        "japanese": "家でダラダラしてるよ",
+        "english": "Just chilling at home.",
+        "genre": "日常",
+        "memo": "chill = リラックスする・ダラダラする。若者によく使われる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3008-4a5b-8c9d-000000000108",
+        "japanese": "洗濯をしなきゃ",
+        "english": "I need to do laundry.",
+        "genre": "日常",
+        "memo": "do laundry = 洗濯をする。wash clothes より一般的な言い方",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3009-4a5b-8c9d-000000000109",
+        "japanese": "ゴミを出さなきゃ",
+        "english": "I have to take out the trash.",
+        "genre": "日常",
+        "memo": "take out = 外に出す。trash = ゴミ（米語）。家事の定番フレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3010-4a5b-8c9d-000000000110",
+        "japanese": "寝坊した！",
+        "english": "I overslept!",
+        "genre": "日常",
+        "memo": "oversleep = 長く寝すぎる → 寝坊する。慌てた状況で",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3011-4a5b-8c9d-000000000111",
+        "japanese": "遅れそうです",
+        "english": "I'm running late.",
+        "genre": "日常",
+        "memo": "run late = 遅れが生じている。今まさに遅刻に向かっている状況を伝える",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3012-4a5b-8c9d-000000000112",
+        "japanese": "ゆっくりでいいよ",
+        "english": "Take your time.",
+        "genre": "日常",
+        "memo": "直訳「あなたの時間を取って」→ 焦らなくていいよ、ゆっくりでいいよ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3013-4a5b-8c9d-000000000113",
+        "japanese": "もう行かなきゃ",
+        "english": "I gotta go.",
+        "genre": "日常",
+        "memo": "gotta = got to = have to。会話を切り上げて立ち去る時の自然な表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3014-4a5b-8c9d-000000000114",
+        "japanese": "気をつけてね",
+        "english": "Take care.",
+        "genre": "日常",
+        "memo": "別れ際の挨拶。「さようなら」の代わりに親しみを込めて",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3015-4a5b-8c9d-000000000115",
+        "japanese": "楽しんで！",
+        "english": "Have fun!",
+        "genre": "日常",
+        "memo": "遊びや旅行に行く相手を見送る時の定番",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3016-4a5b-8c9d-000000000116",
+        "japanese": "それいいね！",
+        "english": "Sounds good!",
+        "genre": "日常",
+        "memo": "sound = 〜のように聞こえる。提案に賛成する時の最強の相槌",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3017-4a5b-8c9d-000000000117",
+        "japanese": "それで決まりだね",
+        "english": "Sounds like a plan.",
+        "genre": "日常",
+        "memo": "計画のように聞こえる → いい計画だね、それでいこう",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3018-4a5b-8c9d-000000000118",
+        "japanese": "マジで？",
+        "english": "Seriously?",
+        "genre": "日常",
+        "memo": "Really? と同じだが、より驚きや疑いが強いカジュアル表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3019-4a5b-8c9d-000000000119",
+        "japanese": "信じられない",
+        "english": "I can't believe it.",
+        "genre": "日常",
+        "memo": "驚きのニュースを聞いた時のリアクション",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3020-4a5b-8c9d-000000000120",
+        "japanese": "大変だったね",
+        "english": "That's tough.",
+        "genre": "日常",
+        "memo": "tough = 困難な。愚痴を聞いた時の共感の言葉",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3021-4a5b-8c9d-000000000121",
+        "japanese": "気にしないで",
+        "english": "Never mind.",
+        "genre": "日常",
+        "memo": "「さっきのは忘れて」というニュアンスで話題を取り消す時に使う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3022-4a5b-8c9d-000000000122",
+        "japanese": "どんまい",
+        "english": "Don't worry about it.",
+        "genre": "日常",
+        "memo": "謝られた時の「気にしないで」は Never mind よりこちらを使う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3023-4a5b-8c9d-000000000123",
+        "japanese": "どうしたの？",
+        "english": "What's wrong?",
+        "genre": "日常",
+        "memo": "wrong = おかしい。相手の様子がいつもと違う時に気遣う表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3024-4a5b-8c9d-000000000124",
+        "japanese": "何もないよ（大丈夫）",
+        "english": "Nothing.",
+        "genre": "日常",
+        "memo": "What's wrong? と聞かれて、特に問題ない時の短い返し",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3025-4a5b-8c9d-000000000125",
+        "japanese": "君のせいじゃないよ",
+        "english": "It's not your fault.",
+        "genre": "日常",
+        "memo": "fault = 責任・落ち度。落ち込んでいる相手を励ます時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3026-4a5b-8c9d-000000000126",
+        "japanese": "すごく楽しみ",
+        "english": "I can't wait.",
+        "genre": "日常",
+        "memo": "直訳「待てない」→ 待ちきれないほど楽しみにしている",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3027-4a5b-8c9d-000000000127",
+        "japanese": "ちょっと手伝ってくれる？",
+        "english": "Can you give me a hand?",
+        "genre": "日常",
+        "memo": "give a hand = 手を貸す。荷物を持ったり、物理的な手助けをお願いする時",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3028-4a5b-8c9d-000000000128",
+        "japanese": "お気遣いなく",
+        "english": "Don't bother.",
+        "genre": "日常",
+        "memo": "bother = わざわざ〜する・思い悩む。相手の手間を省きたい時の「おかまいなく」",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3029-4a5b-8c9d-000000000129",
+        "japanese": "お先にどうぞ",
+        "english": "After you.",
+        "genre": "日常",
+        "memo": "直訳「あなたの後に」→ ドアやエレベーターで道を譲るスマートな表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3030-4a5b-8c9d-000000000130",
+        "japanese": "偶然だね！",
+        "english": "What a coincidence!",
+        "genre": "日常",
+        "memo": "coincidence（コインシデンス）= 偶然。街でバッタリ会った時などに",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3031-4a5b-8c9d-000000000131",
+        "japanese": "惜しい！",
+        "english": "Almost!",
+        "genre": "日常",
+        "memo": "almost = ほとんど・あと少し。「もう少しで正解/成功だった」という時",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3032-4a5b-8c9d-000000000132",
+        "japanese": "どうやって使うの？",
+        "english": "How does this work?",
+        "genre": "日常",
+        "memo": "work = 機能する・動く。機械などの使い方がわからない時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3033-4a5b-8c9d-000000000133",
+        "japanese": "まあ、そんなところ",
+        "english": "Something like that.",
+        "genre": "日常",
+        "memo": "完全に正解ではないが、だいたい合っている時の返答",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3034-4a5b-8c9d-000000000134",
+        "japanese": "そういうことじゃないんだ",
+        "english": "That's not what I meant.",
+        "genre": "日常",
+        "memo": "meant = mean（意味する）の過去形。誤解を解きたい時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3035-4a5b-8c9d-000000000135",
+        "japanese": "一理あるね",
+        "english": "You have a point.",
+        "genre": "日常",
+        "memo": "point = 言い分。相手の意見に少し説得力があると感じた時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3036-4a5b-8c9d-000000000136",
+        "japanese": "どっちでもいいよ",
+        "english": "Either is fine.",
+        "genre": "日常",
+        "memo": "either = （2つのうち）どちらでも。選択を委ねる時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3037-4a5b-8c9d-000000000137",
+        "japanese": "何でもいいよ",
+        "english": "Whatever is fine.",
+        "genre": "日常",
+        "memo": "whatever = 何でも。選択肢がたくさんある中でこだわりがない時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3038-4a5b-8c9d-000000000138",
+        "japanese": "気が変わった",
+        "english": "I changed my mind.",
+        "genre": "日常",
+        "memo": "change one's mind = 考え・決心を変える。",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3039-4a5b-8c9d-000000000139",
+        "japanese": "そうかもしれないね",
+        "english": "I guess so.",
+        "genre": "日常",
+        "memo": "guess = 推測する。確信はないが、たぶんそうだと思う時の相槌",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3040-4a5b-8c9d-000000000140",
+        "japanese": "慣れてるよ",
+        "english": "I'm used to it.",
+        "genre": "日常",
+        "memo": "be used to = 〜に慣れている。環境や状況に適応していること",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3041-4a5b-8c9d-000000000141",
+        "japanese": "話についていけない",
+        "english": "I'm lost.",
+        "genre": "日常",
+        "memo": "道に迷った時だけでなく、会話の内容が理解できなくなった時にも使う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3042-4a5b-8c9d-000000000142",
+        "japanese": "何て言ったの？",
+        "english": "What did you say?",
+        "genre": "日常",
+        "memo": "聞き取れなかった時に聞き返すシンプルな表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3043-4a5b-8c9d-000000000143",
+        "japanese": "言いたいことはわかる",
+        "english": "I know what you mean.",
+        "genre": "日常",
+        "memo": "相手の気持ちに寄り添って共感する時の優しい相槌",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3044-4a5b-8c9d-000000000144",
+        "japanese": "最高だった！",
+        "english": "It was awesome!",
+        "genre": "日常",
+        "memo": "awesome = 素晴らしい・最高。good や great より興奮が伝わる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3045-4a5b-8c9d-000000000145",
+        "japanese": "最悪だった",
+        "english": "It was awful.",
+        "genre": "日常",
+        "memo": "awful = ひどい・最悪の。ネガティブな感想をストレートに言う時",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3046-4a5b-8c9d-000000000146",
+        "japanese": "笑わせないで",
+        "english": "Don't make me laugh.",
+        "genre": "日常",
+        "memo": "make me laugh = 私を笑わせる。真面目な場面で面白がらせないで、という時",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3047-4a5b-8c9d-000000000147",
+        "japanese": "運が良かっただけだよ",
+        "english": "I just got lucky.",
+        "genre": "日常",
+        "memo": "get lucky = 運が良い。褒められた時に謙遜する表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3048-4a5b-8c9d-000000000148",
+        "japanese": "そういう時もあるよ",
+        "english": "It happens.",
+        "genre": "日常",
+        "memo": "直訳「それは起こる」→ 誰にでも起こりうることだから落ち込まないで、と励ます",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3049-4a5b-8c9d-000000000149",
+        "japanese": "落ち着いて",
+        "english": "Calm down.",
+        "genre": "日常",
+        "memo": "calm = 穏やかな。パニックになっている相手をなだめる時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "f1a2b3c4-3050-4a5b-8c9d-000000000150",
+        "japanese": "頑張って！",
+        "english": "Good luck!",
+        "genre": "日常",
+        "memo": "直訳「良い幸運を」。試験や面接に挑む相手の背中を押す言葉",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "0a7e3d92-1c4b-4f8e-a6b0-3c2f7d1a5e86",
+        "japanese": "今やってます",
+        "english": "I'm on it",
+        "genre": "ひとこと",
+        "memo": "on it = その上に乗っている → 取り掛かっている。on が「対応中」のイメージ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "0b7e3a92-1c4d-4f8b-a6e9-3d2f7c1a5b86",
+        "japanese": "あなたに任せるよ",
+        "english": "Up to you",
+        "genre": "ひとこと",
+        "memo": "up to = 〜次第。決定権が「あなたの上に」あるイメージ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "0c7e3b92-1d4a-4f8b-a6e0-3f2d7c1b5a86",
+        "japanese": "（後で）知らせるね",
+        "english": "I'll let you know",
+        "genre": "ひとこと",
+        "memo": "let + 人 + 動詞原形 = 〜させる。あなたに知ることをさせる → 知らせる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "0e6f3a92-7c1d-4b8e-9a5c-2f7d1e3b4a69",
+        "japanese": "（誘いや提案に）乗った！",
+        "english": "I'm down for it",
+        "genre": "ひとこと",
+        "memo": "down = 賛成・乗り気。I'm down = やる！ I'm up for it も同じ意味",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1a7d9c34-2f6b-4e8a-93c1-5b0d7e2f4a68",
+        "japanese": "ミスっちゃった",
+        "english": "I messed up",
+        "genre": "ひとこと",
+        "memo": "mess = 散らかす。mess up = ぐちゃぐちゃにする → やらかした",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1b7a9d35-4e2c-4f8a-a6b0-9d3f0c7e2a85",
+        "japanese": "すぐ戻るね",
+        "english": "I'll be right back",
+        "genre": "ひとこと",
+        "memo": "right = すぐに（強調）。be back = 戻る。略して BRB とも",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1c7a9e35-4b2d-4f8c-a6e1-9d3f0b7a2c85",
+        "japanese": "大目に見る",
+        "english": "Let it slide",
+        "genre": "ひとこと",
+        "memo": "slide = 滑らせる。問題を滑らせて流す → 見逃す・大目に見る",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1e7a9c35-4d2b-4f8c-a6b1-9c3f0d7a2e85",
+        "japanese": "本題に入りましょう",
+        "english": "Let's get to the point",
+        "genre": "ひとこと",
+        "memo": "point = 要点・核心。get to = たどり着く。要点にたどり着こう",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1f7a9b35-4c2d-4f8e-a6b0-9e3f0c7d2a85",
+        "japanese": "いい判断だね",
+        "english": "That's a good call",
+        "genre": "ひとこと",
+        "memo": "call = 判断・決断（名詞）。審判のコールから。good call / bad call",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "2a7b8c41-9d3e-4f6a-b1e0-7c2f9a3d5b68",
+        "japanese": "聞き覚えがある",
+        "english": "That rings a bell",
+        "genre": "ひとこと",
+        "memo": "ring a bell = ベルが鳴る → 記憶のベルが鳴る → 聞き覚えがある",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "2d7b8e41-9c3a-4f6d-a1e5-7b0c2f9a3d68",
+        "japanese": "その意気だ",
+        "english": "That's the spirit",
+        "genre": "ひとこと",
+        "memo": "spirit = 気概・精神・根性。その精神だ！ → その意気！と応援する表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "2e7b8d41-9c3a-4f6b-b1e0-7d2f9a3c5b68",
+        "japanese": "久しぶり！",
+        "english": "It's been ages",
+        "genre": "ひとこと",
+        "memo": "ages = 長い年月。It's been = 〜が経った。Long time no see より口語的",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "2f8c1a67-9b3d-4e5f-8a2c-7d1e0b6f4c93",
+        "japanese": "勘弁してよ",
+        "english": "Give me a break",
+        "genre": "ひとこと",
+        "memo": "break = 休憩・一息。「一息つかせてくれ」→ 勘弁して・やめてよ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3a8e1c62-9d4b-4a7f-b2e0-5c1a6d9e3f78",
+        "japanese": "やったね／はいどうぞ",
+        "english": "There you go,",
+        "genre": "ひとこと",
+        "memo": "文脈で意味が変わる万能フレーズ。物を渡す時「はいどうぞ」、成功時「やったね！」",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3b8e1d62-9c4f-4a7d-b2e5-1f0a6c9d3e78",
+        "japanese": "はっきり言ってよ",
+        "english": "Just spit it out",
+        "genre": "ひとこと",
+        "memo": "spit = 吐き出す。口の中のものを吐いて → 思っていることを言って",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3c8e1d62-9b4f-4a7d-b2e0-5f1a6c9d3e78",
+        "japanese": "興味がない",
+        "english": "I'm not into it",
+        "genre": "ひとこと",
+        "memo": "be into = 〜にハマっている。否定形で「興味なし」。intoは夢中のイメージ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3d8e1b62-9a4c-4f7e-b2e0-5a1c6d9f3e78",
+        "japanese": "最近どうしてた？",
+        "english": "What have you been up to?,",
+        "genre": "ひとこと",
+        "memo": "have been = ずっと〜していた（現在完了進行形）。up to = 何をしている。久々の再会で",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3e9b1d74-5c2f-4a8e-b6d3-0f7a2c9e1b45",
+        "japanese": "ごめん、でも反省してない",
+        "english": "Sorry not sorry",
+        "genre": "ひとこと",
+        "memo": "SNSでも人気のフレーズ。謝る振りして謝らない。ユーモラスな開き直り表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4827a913-6b4f-4c2d-9e51-7f3a8d1c0b92",
+        "japanese": "冗談でしょ？",
+        "english": "Are you kidding me?",
+        "genre": "ひとこと",
+        "memo": "kid = からかう（動詞）。子供(kid)が冗談を言うイメージ。驚きや呆れの表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4a8f2c71-6d9b-4e3f-b1a0-2e7c0d9a3f64",
+        "japanese": "少し調子が悪い",
+        "english": "I'm feeling a bit off,",
+        "genre": "ひとこと",
+        "memo": "off = ずれている・正常でない。a bit = 少し。体調や気分がちょっとズレている感覚",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4c9b2e71-8f3a-4d6c-a1e9-5b7d0f2c3a86",
+        "japanese": "抜けるよ／もう十分だ",
+        "english": "I'm out",
+        "genre": "ひとこと",
+        "memo": "out = 外へ。ゲームやグループから「自分は外」→ 抜ける・降りる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4d8f2a71-6b9c-4e3f-b1a0-2f7c0d9a3b64",
+        "japanese": "知れてよかった",
+        "english": "Good to know,",
+        "genre": "ひとこと",
+        "memo": "It's good to know の省略。相手の情報に対する軽い相づちとしても使える",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4f8a2d71-6c9b-4e3f-b1a5-2d7e0c9a3b64",
+        "japanese": "私のおごりです",
+        "english": "It's on me",
+        "genre": "ひとこと",
+        "memo": "on me = 私の上に（責任・負担が）→ 私の奢り。会計時に「It's on me!」",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "5a9c1e73-2d4b-4f8a-b6e0-3c7d1a9f2b86",
+        "japanese": "マジだよ、本気だよ",
+        "english": "I'm dead serious",
+        "genre": "ひとこと",
+        "memo": "dead = 完全に（強調の副詞）。dead serious = 完全に本気。deadで強さを表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "5b9c1d73-2e4a-4f8b-a6c0-3e7d1f9a2c86",
+        "japanese": "今度埋め合わせするね",
+        "english": "I'll make it up to you,",
+        "genre": "ひとこと",
+        "memo": "make up = 埋め合わせる。to you = あなたに対して。約束を破った時などに",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "5c9b1a73-2d4e-4f8a-a6c0-3d7f1e9a2b86",
+        "japanese": "言い分はわかるよ",
+        "english": "I see your point",
+        "genre": "ひとこと",
+        "memo": "point = 要点。see = 理解する。「あなたの要点が見える」→ 言いたいことは分かる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "5d7a3e91-1c4b-4f8d-a2e6-9b0c3d7f2a84",
+        "japanese": "それだよ、その調子！",
+        "english": "That's what I'm talking about,",
+        "genre": "ひとこと",
+        "memo": "直訳「それが私の言ってること」→ まさにそれ！興奮や同意を表す決め台詞",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6a1f3e84-2d7c-4b9e-b5f2-8c0a6d1e3b97",
+        "japanese": "今回は遠慮しとくよ",
+        "english": "I'll pass,",
+        "genre": "ひとこと",
+        "memo": "pass = パスする・見送る。トランプで順番をパスするイメージ。丁寧な断り",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6b1f3a84-2d7e-4c9b-b5f0-8e0a6d1c3f97",
+        "japanese": "軽く何か食べよう",
+        "english": "Let's grab a bite",
+        "genre": "ひとこと",
+        "memo": "grab = サッとつかむ。bite = 一口。「一口つかもう」→ 軽く食べよう",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6c2e8f91-3b7a-4d5c-a1f0-9e4b2c7d8f13",
+        "japanese": "（重大な）ミスをした",
+        "english": "I screwed up",
+        "genre": "ひとこと",
+        "memo": "screw up = ネジを壊す → 台無しにする。messed up より深刻なニュアンス",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6d1f3c84-2a7b-4e9d-b5f0-8a0c6e1d3b97",
+        "japanese": "正しく理解できてる？",
+        "english": "Did I get you right?",
+        "genre": "ひとこと",
+        "memo": "get + 人 + right = 人を正しく理解する。確認したい時に便利な表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6f1b3e84-2c7d-4a9e-b5f0-8d2a6c1e3b97",
+        "japanese": "自分らしくいて／落ち着いて",
+        "english": "Keep it real",
+        "genre": "ひとこと",
+        "memo": "real = 本物・リアル。「本物のままでいて」→ 自然体で・嘘つかないで",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "7a3e9d14-6b2c-4f8a-b5d1-0c9e2f7a6b58",
+        "japanese": "（予定に）行けない",
+        "english": "I can't make it",
+        "genre": "ひとこと",
+        "memo": "make it = 間に合う・都合がつく。否定で「行けない・参加できない」",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "7b1e9c34-5d2a-4f8e-b6a0-0c9f2d7a1e85",
+        "japanese": "ちょっと待って",
+        "english": "Hold on a minute",
+        "genre": "ひとこと",
+        "memo": "hold on = つかまっていて → 待って。a minute は「少し」。電話でもよく使う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "7c1e9a34-5b2d-4f8e-a6c3-0d9f2b7a1e85",
+        "japanese": "またね",
+        "english": "Catch you later,",
+        "genre": "ひとこと",
+        "memo": "catch = つかまえる。「後でつかまえるね」→ またね。カジュアルな別れ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "7d1e9b34-5a2c-4f8e-b6a0-0f9c2d7a1b85",
+        "japanese": "備えあれば憂いなし",
+        "english": "Better safe than sorry",
+        "genre": "ひとこと",
+        "memo": "safe=安全, sorry=後悔。「後悔するより安全な方がいい」→ 備えあれば憂いなし",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8039c160-f251-4e32-92ef-93aa1ef2e4ab",
+        "japanese": "念のため",
+        "english": "Just in case",
+        "genre": "ひとこと",
+        "memo": "in case = 〜の場合に備えて。just = ただ。万が一に備えて、という軽い表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": "2026-02-21T03:04:34.527Z"
+    },
+    {
+        "id": "8a2d4f71-6c9e-4b3f-b1a0-7c2d9e3f5a64",
+        "japanese": "ないよりはマシ",
+        "english": "It's better than nothing,",
+        "genre": "ひとこと",
+        "memo": "nothing = 何もない。「何もないよりはマシ」。期待外れでもポジティブに",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8b4f2c16-7d9a-4e3b-90c1-2a6e5f8d3b79",
+        "japanese": "そうこなくっちゃ",
+        "english": "That's more like it",
+        "genre": "ひとこと",
+        "memo": "more like it = もっとそれらしい。改善された時に「それでこそ！」と褒める",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8c2d4b71-6e9a-4f3e-b1c0-7d2a9e3f5b64",
+        "japanese": "何でも言って（選択肢が多い時）",
+        "english": "You name it",
+        "genre": "ひとこと",
+        "memo": "name = 名前を挙げる（動詞）。「何でも名前を言ってみて」→ 何でも揃ってるよ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8d2a4c71-6f9b-4e3a-b1a0-7e2c9d3f5b64",
+        "japanese": "まずまずだよ",
+        "english": "Can't complain",
+        "genre": "ひとこと",
+        "memo": "complain = 文句を言う。「文句は言えない」→ 悪くないよ・まあまあ。謙虚な表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8e2d4c71-6a9b-4f3e-b1c5-0d7a2e9f3b64",
+        "japanese": "うっかり忘れてた",
+        "english": "It slipped my mind",
+        "genre": "ひとこと",
+        "memo": "slip = 滑る。「心から滑り落ちた」→ うっかり忘れた。I forgot より自然",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9a2d7c41-5e8b-4f3a-b6c1-3d0f9e7a2b54",
+        "japanese": "当たり前じゃん／考えるまでもない",
+        "english": "No-brainer",
+        "genre": "ひとこと",
+        "memo": "brain = 脳、-er = するもの。脳を使う必要がない → 考えるまでもなく簡単",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9b2a7d41-5c8e-4f3a-b6a0-1d7e3c9f2b54",
+        "japanese": "心に留めておくね",
+        "english": "I'll keep it in mind",
+        "genre": "ひとこと",
+        "memo": "keep in mind = 心の中に保つ。アドバイスをもらった時の丁寧な返事",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9c2a7e41-5b8d-4f3a-b6a0-1f7d3c9a2e54",
+        "japanese": "向かってます",
+        "english": "I'm on my way",
+        "genre": "ひとこと",
+        "memo": "on my way = 道の途中。今まさに移動中。遅刻しそうな時の定番フレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9d2a7c41-5b8e-4f3a-b6c0-1e7d3f9a2b54",
+        "japanese": "それはどうかな",
+        "english": "I'm not sure about that",
+        "genre": "ひとこと",
+        "memo": "not sure = 確信がない。about that で「それについて」。やんわり否定する時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9f1c3e72-8a6d-4b5e-b2c4-1d7e9a0f3c55",
+        "japanese": "一瞬パニックになった",
+        "english": "I freaked out for a second",
+        "genre": "ひとこと",
+        "memo": "freak out = パニクる・ビビる。for a second = 一瞬。freak = 異常な状態になる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "d962178e-f5e9-46db-b81c-8efbb9456273",
+        "japanese": "私は昨日映画を見ました",
+        "english": "I watched a movie yesterday.",
+        "genre": "日常",
+        "memo": "watch = 動くものを見る（映画・TV）。see は映画館で「見に行く」ニュアンス",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    }
+]
