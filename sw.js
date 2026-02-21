@@ -1,5 +1,5 @@
 // ─── Service Worker for PWA ──────────────────────────────────────
-const CACHE_NAME = 'engcard-v1';
+const CACHE_NAME = 'engcard-v2';
 const ASSETS = [
     './',
     './index.html',
@@ -10,7 +10,8 @@ const ASSETS = [
     './js/quiz.js',
     './js/app.js',
     './manifest.json',
-    './icons/icon.svg'
+    './icons/icon.svg',
+    './icons/icon-512.png'
 ];
 
 // Install: cache all core assets

@@ -121,10 +121,17 @@ const Quiz = {
     const ratio = 0.3 + Math.random() * 0.1; // 0.30 ~ 0.40
     const hideCount = Math.max(1, Math.round(words.length * ratio));
 
-    // Build candidates: prefer words with 3+ letters
+    // Build candidates: 3+ letter words AND common prepositions/particles
+    const prepositions = new Set([
+      'to', 'on', 'in', 'at', 'up', 'of', 'by', 'off', 'out', 'for',
+      'as', 'or', 'no', 'not', 'but', 'so', 'if', 'an', 'be', 'do'
+    ]);
     const indices = words.map((w, i) => i);
-    const longIndices = indices.filter(i => words[i].replace(/[^a-zA-Z]/g, '').length >= 3);
-    const pool = longIndices.length >= hideCount ? longIndices : indices;
+    const goodIndices = indices.filter(i => {
+      const clean = words[i].replace(/[^a-zA-Z]/g, '').toLowerCase();
+      return clean.length >= 3 || prepositions.has(clean);
+    });
+    const pool = goodIndices.length >= hideCount ? goodIndices : indices;
 
     // Shuffle and pick
     const shuffled = [...pool].sort(() => Math.random() - 0.5);
