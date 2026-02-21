@@ -1123,3 +1123,44 @@ body::before {
   user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
+
+/* ─── Sync Settings ──────────────────────────────────────────── */
+.sync-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.sync-form .btn-block {
+  margin-top: 8px;
+}
+
+.sync-form .btn-block+.btn-block {
+  margin-top: 4px;
+}
+
+.settings-desc {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 4px 0 8px;
+}
+
+.input-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-top: 8px;
+}
+
+.input-hint {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin: 2px 0 4px;
+}
+
+.input-hint strong {
+  color: var(--accent);
+}

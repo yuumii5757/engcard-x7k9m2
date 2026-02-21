@@ -1,5 +1,5 @@
 // ─── Service Worker for PWA ──────────────────────────────────────
-const CACHE_NAME = 'engcard-v2';
+const CACHE_NAME = 'engcard-v3';
 const ASSETS = [
     './',
     './index.html',
@@ -8,6 +8,7 @@ const ASSETS = [
     './js/speech.js',
     './js/cards.js',
     './js/quiz.js',
+    './js/sync.js',
     './js/app.js',
     './manifest.json',
     './icons/icon.svg',
