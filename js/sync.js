@@ -76,6 +76,7 @@ const Sync = {
         if (!token) throw new Error('GitHubトークンが設定されていません');
         const opts = {
             method,
+            cache: 'no-store',
             headers: {
                 'Authorization': `token ${token}`,
                 'Accept': 'application/vnd.github.v3+json',
