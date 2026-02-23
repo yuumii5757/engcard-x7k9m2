@@ -39,8 +39,15 @@ self.addEventListener('activate', (event) => {
     self.clients.claim();
 });
 
-// Fetch: cache-first strategy
+// Fetch: cache-first strategy (local assets only)
 self.addEventListener('fetch', (event) => {
+    const url = new URL(event.request.url);
+
+    // Skip caching for external API calls (GitHub Gist sync etc.)
+    if (url.origin !== self.location.origin) {
+        return;
+    }
+
     event.respondWith(
         caches.match(event.request).then((cached) => {
             if (cached) return cached;
