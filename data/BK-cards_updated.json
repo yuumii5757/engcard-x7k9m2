@@ -1,0 +1,482 @@
+[
+    {
+        "id": "0a7e3d92-1c4b-4f8e-a6b0-3c2f7d1a5e86",
+        "japanese": "今やってます",
+        "english": "I'm on it",
+        "genre": "ひとこと",
+        "memo": "on it = その上に乗っている → 取り掛かっている。on が「対応中」のイメージ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "0b7e3a92-1c4d-4f8b-a6e9-3d2f7c1a5b86",
+        "japanese": "あなたに任せるよ",
+        "english": "Up to you",
+        "genre": "ひとこと",
+        "memo": "up to = 〜次第。決定権が「あなたの上に」あるイメージ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "0c7e3b92-1d4a-4f8b-a6e0-3f2d7c1b5a86",
+        "japanese": "（後で）知らせるね",
+        "english": "I'll let you know",
+        "genre": "ひとこと",
+        "memo": "let + 人 + 動詞原形 = 〜させる。あなたに知ることをさせる → 知らせる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "0e6f3a92-7c1d-4b8e-9a5c-2f7d1e3b4a69",
+        "japanese": "（誘いや提案に）乗った！",
+        "english": "I'm down for it",
+        "genre": "ひとこと",
+        "memo": "down = 賛成・乗り気。I'm down = やる！ I'm up for it も同じ意味",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1a7d9c34-2f6b-4e8a-93c1-5b0d7e2f4a68",
+        "japanese": "ミスっちゃった",
+        "english": "I messed up",
+        "genre": "ひとこと",
+        "memo": "mess = 散らかす。mess up = ぐちゃぐちゃにする → やらかした",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1b7a9d35-4e2c-4f8a-a6b0-9d3f0c7e2a85",
+        "japanese": "すぐ戻るね",
+        "english": "I'll be right back",
+        "genre": "ひとこと",
+        "memo": "right = すぐに（強調）。be back = 戻る。略して BRB とも",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1c7a9e35-4b2d-4f8c-a6e1-9d3f0b7a2c85",
+        "japanese": "大目に見る",
+        "english": "Let it slide",
+        "genre": "ひとこと",
+        "memo": "slide = 滑らせる。問題を滑らせて流す → 見逃す・大目に見る",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1e7a9c35-4d2b-4f8c-a6b1-9c3f0d7a2e85",
+        "japanese": "本題に入りましょう",
+        "english": "Let's get to the point",
+        "genre": "ひとこと",
+        "memo": "point = 要点・核心。get to = たどり着く。要点にたどり着こう",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "1f7a9b35-4c2d-4f8e-a6b0-9e3f0c7d2a85",
+        "japanese": "いい判断だね",
+        "english": "That's a good call",
+        "genre": "ひとこと",
+        "memo": "call = 判断・決断（名詞）。審判のコールから。good call / bad call",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "2a7b8c41-9d3e-4f6a-b1e0-7c2f9a3d5b68",
+        "japanese": "聞き覚えがある",
+        "english": "That rings a bell",
+        "genre": "ひとこと",
+        "memo": "ring a bell = ベルが鳴る → 記憶のベルが鳴る → 聞き覚えがある",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "2d7b8e41-9c3a-4f6d-a1e5-7b0c2f9a3d68",
+        "japanese": "その意気だ",
+        "english": "That's the spirit",
+        "genre": "ひとこと",
+        "memo": "spirit = 気概・精神・根性。その精神だ！ → その意気！と応援する表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "2e7b8d41-9c3a-4f6b-b1e0-7d2f9a3c5b68",
+        "japanese": "久しぶり！",
+        "english": "It's been ages",
+        "genre": "ひとこと",
+        "memo": "ages = 長い年月。It's been = 〜が経った。Long time no see より口語的",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "2f8c1a67-9b3d-4e5f-8a2c-7d1e0b6f4c93",
+        "japanese": "勘弁してよ",
+        "english": "Give me a break",
+        "genre": "ひとこと",
+        "memo": "break = 休憩・一息。「一息つかせてくれ」→ 勘弁して・やめてよ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3a8e1c62-9d4b-4a7f-b2e0-5c1a6d9e3f78",
+        "japanese": "やったね／はいどうぞ",
+        "english": "There you go,",
+        "genre": "ひとこと",
+        "memo": "文脈で意味が変わる万能フレーズ。物を渡す時「はいどうぞ」、成功時「やったね！」",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3b8e1d62-9c4f-4a7d-b2e5-1f0a6c9d3e78",
+        "japanese": "はっきり言ってよ",
+        "english": "Just spit it out",
+        "genre": "ひとこと",
+        "memo": "spit = 吐き出す。口の中のものを吐いて → 思っていることを言って",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3c8e1d62-9b4f-4a7d-b2e0-5f1a6c9d3e78",
+        "japanese": "興味がない",
+        "english": "I'm not into it",
+        "genre": "ひとこと",
+        "memo": "be into = 〜にハマっている。否定形で「興味なし」。intoは夢中のイメージ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3d8e1b62-9a4c-4f7e-b2e0-5a1c6d9f3e78",
+        "japanese": "最近どうしてた？",
+        "english": "What have you been up to?,",
+        "genre": "ひとこと",
+        "memo": "have been = ずっと〜していた（現在完了進行形）。up to = 何をしている。久々の再会で",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "3e9b1d74-5c2f-4a8e-b6d3-0f7a2c9e1b45",
+        "japanese": "ごめん、でも反省してない",
+        "english": "Sorry not sorry",
+        "genre": "ひとこと",
+        "memo": "SNSでも人気のフレーズ。謝る振りして謝らない。ユーモラスな開き直り表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4827a913-6b4f-4c2d-9e51-7f3a8d1c0b92",
+        "japanese": "冗談でしょ？",
+        "english": "Are you kidding me?",
+        "genre": "ひとこと",
+        "memo": "kid = からかう（動詞）。子供(kid)が冗談を言うイメージ。驚きや呆れの表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4a8f2c71-6d9b-4e3f-b1a0-2e7c0d9a3f64",
+        "japanese": "少し調子が悪い",
+        "english": "I'm feeling a bit off,",
+        "genre": "ひとこと",
+        "memo": "off = ずれている・正常でない。a bit = 少し。体調や気分がちょっとズレている感覚",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4c9b2e71-8f3a-4d6c-a1e9-5b7d0f2c3a86",
+        "japanese": "抜けるよ／もう十分だ",
+        "english": "I'm out",
+        "genre": "ひとこと",
+        "memo": "out = 外へ。ゲームやグループから「自分は外」→ 抜ける・降りる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4d8f2a71-6b9c-4e3f-b1a0-2f7c0d9a3b64",
+        "japanese": "知れてよかった",
+        "english": "Good to know,",
+        "genre": "ひとこと",
+        "memo": "It's good to know の省略。相手の情報に対する軽い相づちとしても使える",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "4f8a2d71-6c9b-4e3f-b1a5-2d7e0c9a3b64",
+        "japanese": "私のおごりです",
+        "english": "It's on me",
+        "genre": "ひとこと",
+        "memo": "on me = 私の上に（責任・負担が）→ 私の奢り。会計時に「It's on me!」",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "5a9c1e73-2d4b-4f8a-b6e0-3c7d1a9f2b86",
+        "japanese": "マジだよ、本気だよ",
+        "english": "I'm dead serious",
+        "genre": "ひとこと",
+        "memo": "dead = 完全に（強調の副詞）。dead serious = 完全に本気。deadで強さを表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "5b9c1d73-2e4a-4f8b-a6c0-3e7d1f9a2c86",
+        "japanese": "今度埋め合わせするね",
+        "english": "I'll make it up to you,",
+        "genre": "ひとこと",
+        "memo": "make up = 埋め合わせる。to you = あなたに対して。約束を破った時などに",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "5c9b1a73-2d4e-4f8a-a6c0-3d7f1e9a2b86",
+        "japanese": "言い分はわかるよ",
+        "english": "I see your point",
+        "genre": "ひとこと",
+        "memo": "point = 要点。see = 理解する。「あなたの要点が見える」→ 言いたいことは分かる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "5d7a3e91-1c4b-4f8d-a2e6-9b0c3d7f2a84",
+        "japanese": "それだよ、その調子！",
+        "english": "That's what I'm talking about,",
+        "genre": "ひとこと",
+        "memo": "直訳「それが私の言ってること」→ まさにそれ！興奮や同意を表す決め台詞",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6a1f3e84-2d7c-4b9e-b5f2-8c0a6d1e3b97",
+        "japanese": "今回は遠慮しとくよ",
+        "english": "I'll pass,",
+        "genre": "ひとこと",
+        "memo": "pass = パスする・見送る。トランプで順番をパスするイメージ。丁寧な断り",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6b1f3a84-2d7e-4c9b-b5f0-8e0a6d1c3f97",
+        "japanese": "軽く何か食べよう",
+        "english": "Let's grab a bite",
+        "genre": "ひとこと",
+        "memo": "grab = サッとつかむ。bite = 一口。「一口つかもう」→ 軽く食べよう",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6c2e8f91-3b7a-4d5c-a1f0-9e4b2c7d8f13",
+        "japanese": "（重大な）ミスをした",
+        "english": "I screwed up",
+        "genre": "ひとこと",
+        "memo": "screw up = ネジを壊す → 台無しにする。messed up より深刻なニュアンス",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6d1f3c84-2a7b-4e9d-b5f0-8a0c6e1d3b97",
+        "japanese": "正しく理解できてる？",
+        "english": "Did I get you right?",
+        "genre": "ひとこと",
+        "memo": "get + 人 + right = 人を正しく理解する。確認したい時に便利な表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "6f1b3e84-2c7d-4a9e-b5f0-8d2a6c1e3b97",
+        "japanese": "自分らしくいて／落ち着いて",
+        "english": "Keep it real",
+        "genre": "ひとこと",
+        "memo": "real = 本物・リアル。「本物のままでいて」→ 自然体で・嘘つかないで",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "7a3e9d14-6b2c-4f8a-b5d1-0c9e2f7a6b58",
+        "japanese": "（予定に）行けない",
+        "english": "I can't make it",
+        "genre": "ひとこと",
+        "memo": "make it = 間に合う・都合がつく。否定で「行けない・参加できない」",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "7b1e9c34-5d2a-4f8e-b6a0-0c9f2d7a1e85",
+        "japanese": "ちょっと待って",
+        "english": "Hold on a minute",
+        "genre": "ひとこと",
+        "memo": "hold on = つかまっていて → 待って。a minute は「少し」。電話でもよく使う",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "7c1e9a34-5b2d-4f8e-a6c3-0d9f2b7a1e85",
+        "japanese": "またね",
+        "english": "Catch you later,",
+        "genre": "ひとこと",
+        "memo": "catch = つかまえる。「後でつかまえるね」→ またね。カジュアルな別れ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "7d1e9b34-5a2c-4f8e-b6a0-0f9c2d7a1b85",
+        "japanese": "備えあれば憂いなし",
+        "english": "Better safe than sorry",
+        "genre": "ひとこと",
+        "memo": "safe=安全, sorry=後悔。「後悔するより安全な方がいい」→ 備えあれば憂いなし",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8039c160-f251-4e32-92ef-93aa1ef2e4ab",
+        "japanese": "念のため",
+        "english": "Just in case",
+        "genre": "ひとこと",
+        "memo": "in case = 〜の場合に備えて。just = ただ。万が一に備えて、という軽い表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": "2026-02-21T03:04:34.527Z"
+    },
+    {
+        "id": "8a2d4f71-6c9e-4b3f-b1a0-7c2d9e3f5a64",
+        "japanese": "ないよりはマシ",
+        "english": "It's better than nothing,",
+        "genre": "ひとこと",
+        "memo": "nothing = 何もない。「何もないよりはマシ」。期待外れでもポジティブに",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8b4f2c16-7d9a-4e3b-90c1-2a6e5f8d3b79",
+        "japanese": "そうこなくっちゃ",
+        "english": "That's more like it",
+        "genre": "ひとこと",
+        "memo": "more like it = もっとそれらしい。改善された時に「それでこそ！」と褒める",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8c2d4b71-6e9a-4f3e-b1c0-7d2a9e3f5b64",
+        "japanese": "何でも言って（選択肢が多い時）",
+        "english": "You name it",
+        "genre": "ひとこと",
+        "memo": "name = 名前を挙げる（動詞）。「何でも名前を言ってみて」→ 何でも揃ってるよ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8d2a4c71-6f9b-4e3a-b1a0-7e2c9d3f5b64",
+        "japanese": "まずまずだよ",
+        "english": "Can't complain",
+        "genre": "ひとこと",
+        "memo": "complain = 文句を言う。「文句は言えない」→ 悪くないよ・まあまあ。謙虚な表現",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "8e2d4c71-6a9b-4f3e-b1c5-0d7a2e9f3b64",
+        "japanese": "うっかり忘れてた",
+        "english": "It slipped my mind",
+        "genre": "ひとこと",
+        "memo": "slip = 滑る。「心から滑り落ちた」→ うっかり忘れた。I forgot より自然",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9a2d7c41-5e8b-4f3a-b6c1-3d0f9e7a2b54",
+        "japanese": "当たり前じゃん／考えるまでもない",
+        "english": "No-brainer",
+        "genre": "ひとこと",
+        "memo": "brain = 脳、-er = するもの。脳を使う必要がない → 考えるまでもなく簡単",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9b2a7d41-5c8e-4f3a-b6a0-1d7e3c9f2b54",
+        "japanese": "心に留めておくね",
+        "english": "I'll keep it in mind",
+        "genre": "ひとこと",
+        "memo": "keep in mind = 心の中に保つ。アドバイスをもらった時の丁寧な返事",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9c2a7e41-5b8d-4f3a-b6a0-1f7d3c9a2e54",
+        "japanese": "向かってます",
+        "english": "I'm on my way",
+        "genre": "ひとこと",
+        "memo": "on my way = 道の途中。今まさに移動中。遅刻しそうな時の定番フレーズ",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9d2a7c41-5b8e-4f3a-b6c0-1e7d3f9a2b54",
+        "japanese": "それはどうかな",
+        "english": "I'm not sure about that",
+        "genre": "ひとこと",
+        "memo": "not sure = 確信がない。about that で「それについて」。やんわり否定する時に",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "9f1c3e72-8a6d-4b5e-b2c4-1d7e9a0f3c55",
+        "japanese": "一瞬パニックになった",
+        "english": "I freaked out for a second",
+        "genre": "ひとこと",
+        "memo": "freak out = パニクる・ビビる。for a second = 一瞬。freak = 異常な状態になる",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    },
+    {
+        "id": "d962178e-f5e9-46db-b81c-8efbb9456273",
+        "japanese": "私は昨日映画を見ました",
+        "english": "I watched a movie yesterday.",
+        "genre": "日常",
+        "memo": "watch = 動くものを見る（映画・TV）。see は映画館で「見に行く」ニュアンス",
+        "favorite": false,
+        "wrongCount": 0,
+        "lastAnswered": null
+    }
+]
