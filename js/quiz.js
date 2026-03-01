@@ -99,7 +99,10 @@ const Quiz = {
 
   // ─── Weighted Random Selection ────────────────────────────────
   pickWeightedRandom(cards) {
-    const weights = cards.map(c => 1 + (c.wrongCount || 0) * 2);
+    const weights = cards.map(c => {
+      const base = c.lastAnswered ? 1 : 3;  // Unanswered cards 3x more likely
+      return base + (c.wrongCount || 0) * 2;
+    });
     const totalWeight = weights.reduce((a, b) => a + b, 0);
     let rand = Math.random() * totalWeight;
     for (let i = 0; i < cards.length; i++) {
@@ -296,6 +299,9 @@ const Quiz = {
     if (this.session._scoring) return;
     this.session._scoring = true;
     const card = this.session.currentCard;
+    if ((card.wrongCount || 0) > 0) {
+      card.wrongCount -= 1;
+    }
     card.lastAnswered = new Date().toISOString();
     await updateCard(card);
     this.session.correctCount++;

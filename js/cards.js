@@ -1,9 +1,21 @@
-// ─── Card Management Screen ─────────────────────────────────────
-
 const Cards = {
+  _selectedGenre: 'all',
+
   async render() {
-    const cards = await getAllCards();
+    const allCards = await getAllCards();
     const genres = await getGenres();
+
+    // Newest first
+    const reversed = [...allCards].reverse();
+
+    // Filter by genre
+    const cards = this._selectedGenre === 'all'
+      ? reversed
+      : reversed.filter(c => c.genre.split(/[,、]/).map(g => g.trim()).includes(this._selectedGenre));
+
+    const displayCount = this._selectedGenre === 'all'
+      ? `${allCards.length}枚`
+      : `${cards.length} / ${allCards.length}枚`;
 
     return `
       <button class="nav-back" onclick="App.navigate('top')">← トップに戻る</button>
@@ -39,13 +51,20 @@ const Cards = {
         <input type="file" id="import-file" class="hidden-input" accept=".json" onchange="Cards.importData(event)">
       </div>
 
-      <div class="section-title"><span class="icon">📚</span> カード一覧 <span style="color:var(--text-muted);font-weight:400;font-size:0.82rem">(${cards.length}枚)</span></div>
+      <div class="section-title"><span class="icon">📚</span> カード一覧 <span style="color:var(--text-muted);font-weight:400;font-size:0.82rem">(${displayCount})</span></div>
+
+      <div class="filter-bar">
+        <select id="genre-filter" class="form-input filter-select" onchange="Cards.filterByGenre(this.value)">
+          <option value="all"${this._selectedGenre === 'all' ? ' selected' : ''}>すべて</option>
+          ${genres.map(g => `<option value="${escapeHtml(g)}"${this._selectedGenre === g ? ' selected' : ''}>${escapeHtml(g)}</option>`).join('')}
+        </select>
+      </div>
 
       <div id="card-list">
         ${cards.length === 0 ? `
           <div class="empty-state">
             <div class="empty-icon">📝</div>
-            <p>まだカードがありません。<br>上のフォームから作成しましょう！</p>
+            <p>${this._selectedGenre === 'all' ? 'まだカードがありません。<br>上のフォームから作成しましょう！' : 'このジャンルにカードはありません。'}</p>
           </div>
         ` : cards.map((c, i) => `
           <div class="card-list-item" style="animation-delay:${i * 0.04}s">
@@ -66,6 +85,11 @@ const Cards = {
         `).join('')}
       </div>
     `;
+  },
+
+  filterByGenre(genre) {
+    this._selectedGenre = genre;
+    App.navigate('cards');
   },
 
   async addCard() {
